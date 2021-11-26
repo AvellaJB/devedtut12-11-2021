@@ -9,6 +9,7 @@
   width: 100%;
   height: 100vh;
   color: white;
+  clip-path: circle(5%);
 }
 
 .front-page video {
